@@ -1,1 +1,1 @@
-[Click me Please for the Assignment](Practical Lab 3 - Univariate Linear Regression.html)
+([Practical Lab 3 - Univariate Linear Regression.html](https://github.com/Satyampatel779/Practical-Lab-3---Univariate-Linear-Regression/blob/9c65f25e91e233e3bd7ab73036b421471be41fdd/Practical%20Lab%203%20-%20Univariate%20Linear%20Regression.html)https://github.com/Satyampatel779/Practical-Lab-3---Univariate-Linear-Regression/blob/9c65f25e91e233e3bd7ab73036b421471be41fdd/Practical%20Lab%203%20-%20Univariate%20Linear%20Regression.html)
